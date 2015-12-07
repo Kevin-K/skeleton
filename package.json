@@ -1,0 +1,19 @@
+{
+  "name": "skeleton",
+  "version": "0.0.1",
+  "description": "A javascript skeleton project utilizing industry popular tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-k/skeleton.git"
+  },
+  "author": "kevin-k",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevin-k/skeleton/issues"
+  },
+  "homepage": "https://github.com/kevin-k/skeleton#readme"
+}

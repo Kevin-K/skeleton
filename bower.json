@@ -1,0 +1,18 @@
+{
+  "name": "skeleton",
+  "description": "A javascript skeleton project utilizing industry popular tools.",
+  "main": "index.js",
+  "authors": [
+    "kevin-k"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kevin-k/skeleton",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
