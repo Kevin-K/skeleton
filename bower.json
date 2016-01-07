@@ -3,7 +3,8 @@
   "description": "A javascript skeleton project utilizing industry popular tools.",
   "main": "index.js",
   "authors": [
-    "kevin-k"
+    "kevin-k",
+    "mrecachinas"
   ],
   "license": "MIT",
   "homepage": "https://github.com/kevin-k/skeleton",
